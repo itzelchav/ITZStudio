@@ -793,13 +793,14 @@ html, body {
     margin-top: 30px;
   }
   .section-hello .col-sm-4 {
-    min-height: 240px;
+    min-height: 40px;
   }
   .section-hello .main-service {
     min-height: 100%;
   }
   .section-hello .main-service p {
     margin-top: 15px;
+    text-align: left;
   }
 }
 
@@ -2068,7 +2069,7 @@ html, body {
 
 /* Sections background: Me */
 .section-me {
-  background: url(../img/portfolio-7.jpg) center no-repeat fixed;
+  background: url(../img/zorrito.png) center no-repeat fixed;
 }
 
 .section-me h2 {
@@ -2079,7 +2080,7 @@ html, body {
 
 /* Sections background: Twitter */
 .section-twitter {
-  background: url(../img/portfolio-8.jpg) center no-repeat fixed;
+  background: url(../img/BonyFuria.jpg) center no-repeat fixed;
 }
 
 .section-twitter .container {
@@ -2408,3 +2409,4 @@ textarea.form-control {
     width: 36px;
   }
 }
+
